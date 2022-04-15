@@ -14,16 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "zh-CN"
-title: "5Bamboo Club"
+title: "Catterpillar Yard"
 title_separator: "|"
 email: "1839733716@qq.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  懒懒散散
+  ————
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-logo: "/assets/images/小竹.png"
+logo: "/assets/images/LOGO3.jpg"
 
 # Build settings
 markdown: kramdown
@@ -59,16 +59,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "一等白蜡"
-  avatar : "/assets/images/headphoto.jpg"
-  bio    : "懒懒散散"
+  name   : "毛毛虫后院"
+  avatar : "/assets/images/LOGO3.jpg"
+  bio    : "————"
   links:
     - label: "Lofter"
       icon: "fas fa-fw fa-link"
-      url: "https://fimboo.lofter.com/"
+      url: "https://caterpillaryard.lofter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/5Bamboo"
+      url: "https://github.com/CaterpillarYard"
 
 footer:
   links:
