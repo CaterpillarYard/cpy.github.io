@@ -1,0 +1,11 @@
+main:
+  - title: "主页"
+    url: /homepage/
+  - title: "时间"
+    url: /posts/
+  - title: "分类"
+    url: /categories/
+  - title: "标签"
+    url: /tags/
+  - title: "关于"
+    url: /about/
