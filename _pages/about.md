@@ -1,18 +1,17 @@
 ---
 permalink: /about/
-title: "欢迎你来。"
+title: "WELCOME TO CATERPILLAR YARD"
 ---
 
 
-## 网站内容：
- - 文章
- - 图像
- - 收藏
- - 杂项
-
 ## 使用者：
- - QQ：1839733716
- - weibo：糖醋五竹
- - LOFTER：一等白蜡
+ - 严行
+ - 瞻鹓
+ - 团栗
+ - 五竹
+ - 官鸠
+ - 亓柒
+ - 栀子
+ - 华尽
 
 ### Hope you have fun.
